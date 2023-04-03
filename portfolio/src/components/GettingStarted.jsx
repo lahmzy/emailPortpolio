@@ -7,7 +7,7 @@ const GettingStarted = () => {
       <div className="flex flex-col items-center text-center gap-4">
         <img src="/img/logo2.png" className="w-[6rem] h-[6rem] rounded-full" />
         <h1 className="font-bold text-3xl mt-2">
-          Want emails, words that sounds like you, and spark genuine sales?
+          Want contents, emails, that sounds like you, and spark genuine sales?
         </h1>
         <p className="text-veryDarkBlue">
           I help passionate Service based entrepreneurs create exactly that -

@@ -10,7 +10,7 @@ const Project = () => {
       </div>
       <div className="flex flex-wrap justify-between pt-10">
         {cards.map((item) => (
-          <Cards title={item.title} body={item.body} image={item.image} />
+          <Cards title={item.title} body={item.body} image={item.image} anchor={item.anchor} />
         ))}
 
       </div>
