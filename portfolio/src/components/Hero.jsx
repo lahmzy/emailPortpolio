@@ -29,7 +29,7 @@ const Hero = () => {
 
       <div className="hidden md:flex mb-[4rem] shadow-sm">
         <img
-          className="h-[25rem] w-[25rem] rounded-full brightness-50 border bg-no-repeat object-cover"
+          className="h-[23rem] w-[23rem] rounded-full brightness-50 border border-veryLightGray bg-no-repeat object-cover"
           src="/img/please.png"
         />
       </div>
